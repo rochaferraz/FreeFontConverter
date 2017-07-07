@@ -2,9 +2,9 @@
 
 ## What's this project
 
-Free Font Converter generates typography-quality bitmap fonts optimized for 
+Free Font Converter generates *typography-quality* bitmap fonts optimized for 
 embedded systems. Thus, it takes TrueType fonts (and many other formats) and 
-converts its vector formats into bitmaps arrays, that is, it rasterizes them.
+converts its vector formats into bitmaps arrays -- that is, it rasterizes them.
 
 It than places the generated glyphs for each individual characters in a single
 .h file.
@@ -27,9 +27,23 @@ project to large, complex medical equipment interfaces.
 
 ## Who's this project for
 
+This project is intended for embedded systems / firmware engineers, but may also
+be used in gaming, where bitmap fonts are also extensively used by the GPU.
+
 ## Getting Started
 
+Check the sample folder for an example using \*nix X11 system. The system itself is composed of just two files:
+
+- src/main.c
+- inc/fontHeader.h
+
 ## Contributing
+
+Check our project development plan on Github's project pane. Then, pull the repository, improve it and push your suggestions!
+
+## Contact
+
+You may contact contributors directly via Github or Doug via the e-mail ![rochaferraz email](/sample/email.png).
 
 ## Samples
 ![Sample Image](/sample/sample_text.png)
