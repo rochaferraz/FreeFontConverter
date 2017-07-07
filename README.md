@@ -1,5 +1,7 @@
 # Free Font Converter
 
+![Sample Top](/sample/top_sample.png)
+
 ## What's this project
 
 Free Font Converter generates *typography-quality* bitmap fonts optimized for 
