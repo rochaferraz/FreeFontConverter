@@ -1,6 +1,6 @@
 # Free Font Converter
 
-![Sample Top](/sample/top_sample.png)
+![Sample Top](https://user-images.githubusercontent.com/2106161/28020492-0ce40768-655b-11e7-998a-f551a22728a9.png)
 
 ## What's this project
 
@@ -48,4 +48,4 @@ Check our project development plan on Github's project pane. Then, pull the repo
 You may contact contributors directly via Github or Doug via the e-mail ![rochaferraz email](/sample/email.png).
 
 ## Samples
-![Sample Image](/sample/sample_text.png)
+![Sample Image](https://user-images.githubusercontent.com/2106161/28020496-0f29780a-655b-11e7-97ee-44abe80a55e0.png)
