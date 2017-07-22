@@ -45,7 +45,8 @@ Check our project development plan on Github's project pane. Then, pull the repo
 
 ## Contact
 
-You may contact contributors directly via Github or Doug via the e-mail ![rochaferraz email](https://user-images.githubusercontent.com/2106161/28487814-f53167b4-6e6f-11e7-9512-438adf64db7e.png).
+You may contact contributors directly via Github or via the e-mail 
+![rochaferraz email](https://user-images.githubusercontent.com/2106161/28487814-f53167b4-6e6f-11e7-9512-438adf64db7e.png)
 
 ## Samples
 ![Sample Image](https://user-images.githubusercontent.com/2106161/28020496-0f29780a-655b-11e7-97ee-44abe80a55e0.png)
